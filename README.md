@@ -21,4 +21,5 @@ Link to dataset: https://www.kaggle.com/datasets/dhruvildave/en-fr-translation-d
 - Fine_tune_Llama_2.ipynb contains the code for the fine-tuned LLaMA model with QLoRA
 - QLoRa_unsloth.ipynb contains the code for the fine-tuned LLaMA model with QLoRA using Unsloth
 - QloraLlamaUnslothCOMETandBLEU.ipynb loads the fine-tuned LLaMA model with QLoRA using Unsloth
+- qlorallamaresultsunsloth.csv contain results from the LLaMA model with QLoRA and Unsloth
 
