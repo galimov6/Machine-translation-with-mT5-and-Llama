@@ -11,9 +11,9 @@ Link to dataset: https://www.kaggle.com/datasets/dhruvildave/en-fr-translation-d
     * mt5-qlora-eval.xlsx contains the human evaluations of the mt5 model fine-tuned with QLoRA for 200k lines
     * mt5-prompt-tuning.xlsx contains the human evaluations of the prompt-tuned mt5 model for 200k lines
 
-- mt5 fine tuning 100k.ipynb contians the code for the fine-tuned mt5 model for 100k lines
+- mt5 fine tuning 100k.ipynb contains the code for the fine-tuned mt5 model for 100k lines
 - mt5 fine tuning 200k.ipynb contains the code for the fine-tuned mt5 model for 200k lines
-- mt5 fine tuning Load.ipynb loads the fine-tuned mt5 model
+- mt5 fine tuning Load.ipynb loads the fine-tuned mt5 model and generates graph
 - mt5_QLoRA.ipynb contains the code for the mt5 model fine-tuned with QLoRA for 200k lines
 - mt5_QLoRA_load.ipynb loads the mt5 model fine-tuned with QLoRA
 - PromptTuning_model_fine_tuning.ipynb contains the code for the prompt-tuned mt5 model
