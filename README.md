@@ -18,7 +18,7 @@ Link to dataset: https://www.kaggle.com/datasets/dhruvildave/en-fr-translation-d
 - mt5_QLoRA_load.ipynb loads the mt5 model fine-tuned with QLoRA
 - PromptTuning_model_fine_tuning.ipynb contains the code for the prompt-tuned mt5 model
 - mT5 prompt tuning load.ipynb loads the prompt-tuned mt5 model
-- Fine-tune_Llama_2.ipynb contains the code for the fine-tuned LLaMA model with QLoRA for 100k lines
+- Fine_tune_Llama_2.ipynb contains the code for the fine-tuned LLaMA model with QLoRA for 100k lines
 - QLoRa_unsloth.ipynb contains the code for the fine-tuned LLaMA model with QLoRA for 80k lines
 - QloraLlamaUnslothCOMETandBLEU.ipynb loads the fine-tuned LLaMA model with QLoRA for 80k lines
 
