@@ -1,3 +1,5 @@
+The group members who contributed are: Aylin Elmali, Sarah Boal, Albert Galimov, Deepa Rukmini Mahalingappa, and Sapna Parihar
+
 Models for en-fr machine translation comparisons
 
 Link to dataset: https://www.kaggle.com/datasets/dhruvildave/en-fr-translation-dataset
